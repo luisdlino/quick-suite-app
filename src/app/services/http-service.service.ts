@@ -8,6 +8,6 @@ export class HttpService {
   constructor(private http: HttpClient) { }
 
   getAllMovies(): Observable<Object> {
-    return this.http.get('/assets/movies.json');
+    return this.http.get('/quick-suite-app/assets/movies.json');
   }
 }

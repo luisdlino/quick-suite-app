@@ -8,7 +8,7 @@
     "genre": "Action, Sci-Fi",
     "released_date": "3 September 2020",
     "trailer_link": "https://www.youtube.com/embed/LdOM0x0XDMo?si=c0G1NsYzyW7DgZt0",
-    "image": "assets/resources/Tenet.png"
+    "image": "quick-suite-app/assets/resources/Tenet.png"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "genre": "Action, Animation, Adventure",
     "released_date": "14 December 2018",
     "trailer_link": "https://www.youtube.com/embed/tg52up16eq0?si=3IszpG2h2LSZyfdp",
-    "image": "assets/resources/Spider_Man.png"
+    "image": "/quick-suite-app/assets/resources/Spider_Man.png"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "genre": "Comedy, Crime, Drama",
     "released_date": "27 November 2019",
     "trailer_link": "https://www.youtube.com/embed/qGqiHJTsRkQ?si=pQXWazjRm8x6rj6F",
-    "image": "assets/resources/Knives_Out.png"
+    "image": "/quick-suite-app/assets/resources/Knives_Out.png"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "genre": "Action, Adventure, Comedy",
     "released_date": "1 August 2014",
     "trailer_link": "https://www.youtube.com/embed/d96cjJhvlMA?si=IhfjQMa4NsrQ5w-B",
-    "image": "assets/resources/Guardians_of_The_Galaxy.png"
+    "image": "/quick-suite-app/assets/resources/Guardians_of_The_Galaxy.png"
   },
   {
     "id": 5,
@@ -52,6 +52,6 @@
     "genre": "Action, Adventure, Sci-Fi",
     "released_date": "1 May 2015",
     "trailer_link": "https://www.youtube.com/embed/tmeOjFno6Do?si=hpcgL8nWEHz5deOM",
-    "image": "assets/resources/Avengers.png"
+    "image": "/quick-suite-app/assets/resources/Avengers.png"
   }
 ]
